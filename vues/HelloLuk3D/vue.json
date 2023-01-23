@@ -1,8 +1,7 @@
 {
-    "name": "HelloWorld",
+    "name": "HelloLuk3D",
     "category": "Images",
-    "icon": "hammer",
-    "description": "Imports all of your facebook data into the POV globe",
-    "background": "white",
-    "published": "Oct 02, 2020"
+    "icon": "world",
+    "description": "So you can see the concept of POV",
+    "background": "blue"
 }
