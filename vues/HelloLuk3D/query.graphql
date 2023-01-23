@@ -1,0 +1,10 @@
+query getPosts {
+  vues {
+    oid
+    name
+  }
+  images(where: {albumId: "8qGr2BA"}) {
+    link
+    title
+  }
+}
