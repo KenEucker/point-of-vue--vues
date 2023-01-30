@@ -1,7 +1,7 @@
 <div class="person">
 <svg
     height="420px"
-    viewBox="0 0 600 550"
+    viewBox="80 80 600 550"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
 >
@@ -288,7 +288,7 @@
     />
 </svg>
 
-<p>
+<i>
     Illustration from
     <a
     href="https://blush.design/fr/collections/pebble-people"
@@ -299,5 +299,5 @@
     <a href="https://blush.design/fr/artists/deivid-saenz" target="_blank"
     >Deivd Saenz</a
     >
-</p>
+</i>
 </div>
