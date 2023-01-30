@@ -4,7 +4,7 @@
     <!-- use veriables defined in the script -->
     <h3>{{vuesHeading}}</h3>
     <!-- use variables from the query -->
-    <div v-for="vue in query.vues">
+    <div v-for="vue in query.github_vues">
         <span>{{ vue.name }}</span>
     </div>
     <h3>{{imagesHeading}}</h3>
