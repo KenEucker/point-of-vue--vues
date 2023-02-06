@@ -1,3 +1,3 @@
 console.log({hello: 'world'})
 
-const msg = 'Kendrid Spirites'
+const msg = 'Kendrid Spirits'
