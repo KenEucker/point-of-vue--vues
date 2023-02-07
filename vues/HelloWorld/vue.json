@@ -1,4 +1,5 @@
 {
-  "name": "HelloWorld",
-  "description": "My First PoVue"
+  "title": "HelloWorld",
+  "description": "My First PoVue",
+  "version": "0.0.1" 
 }
