@@ -2,6 +2,6 @@
 <div>
     <h2>Your Posts</h2>
     <div v-for="post in query.posts">
-        {{ post.tite}}
+        {{ post.title }}
     </div>
 </div>
