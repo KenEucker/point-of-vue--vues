@@ -4,5 +4,4 @@
     <div v-for="post in query.posts">
         {{ post.title }}
     </div>
-    <example-core-component message="yup" />
 </div>
