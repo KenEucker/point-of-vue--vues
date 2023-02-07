@@ -3,5 +3,6 @@
     "category": "Images",
     "icon": "world",
     "description": "So you can see the concept of POV",
-    "background": "blue"
+    "background": "blue",
+    "version": "0.0.1"
 }
