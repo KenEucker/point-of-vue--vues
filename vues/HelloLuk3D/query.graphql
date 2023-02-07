@@ -1,7 +1,7 @@
 query getPosts {
   github_vues {
     oid
-    name
+    title
   }
   images(where: {albumId: "8qGr2BA"}) {
     link
