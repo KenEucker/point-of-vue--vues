@@ -1,1 +1,1 @@
-const msg = 'Kendrid Spirit'
+const msg = 'Kendrid Spirit Is So Cool'
